@@ -6,9 +6,9 @@
     <li><strong>Telegram</strong>: <a href="https://t.me/vkrdownloader">join telegram @vkrdownloader</a></li>
 
  <h2>Demo</h2>   
- Light theme https://theofficialvkr.github.io/VKrDownloader/
+ Light theme https://buykart.github.io/AdiDownloader/
  <br>
- Dark Theme https://theofficialvkr.github.io/VKrDownloader/dark.html
+ Dark Theme https://buykart.github.io/AdiDownloader/dark.html
  <hr>
 
  
@@ -26,14 +26,14 @@
 
 <h2>Support Me</h2>
 
-### Notice: Support Needed to Keep VKrDownloader Alive
+### Notice: Support Needed to Keep AdiDown Alive
 
 <hr>
 
 
 <br>
-<a href="https://www.paypal.com/ncp/payment/4C9YTYAMKYVZS">
-    <img src="https://www.paypalobjects.com/images/Debit_Credit_APM.svg">
+<a href="https://youtube.com/@the-audiolibrary?si=OnnVE6pfQgrnFW30">
+    <img src="https://www.svgrepo.com/show/13671/youtube.svg">
 </a>
 <br>
 <a href="https://www.buymeacoffee.com/theofficialvkr">
