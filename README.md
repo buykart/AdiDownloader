@@ -1,4 +1,4 @@
-<h1>VKrDownloader</h1>
+<h1> Adi Down</h1>
 <p>
     Video Downloader by Vijay Kumar 
     <a href="https://instagram.com/theofficialvkr">@TheOfficialVKr</a> 
