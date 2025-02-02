@@ -371,9 +371,9 @@ function generateDownloadButtons(videoData, inputUrl) {
 
     // If no download buttons or iframes were added, notify the user
     if (downloadContainer.innerHTML.trim() === "") {
-        displayError("Server Down due to Too Many Requests. Please contact us on Social Media @TheOfficialVKr.");
+        displayError("Server Down due to Too Many Requests. Please contact us on Social Media @a_diofficial.");
         document.getElementById("container").style.display = "none";
         // Redirecting the user to an alternative download page
-        window.location.href = `https://vkrdownloader.xyz/download.php?vkr=${encodeURIComponent(inputUrl)}`;
+        window.location.href = `https://buykart.github.io/AdiDownloader/=${encodeURIComponent(inputUrl)}`;
     }
 }
